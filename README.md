@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Digvijay Mukherjee</h1>
 <h3 align="center">Mechatronics Engineering at the University of Waterloo</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FujjawalD07%2FujjawalD07&psig=AOvVaw36ip5go00j8r_cu97NJchF&ust=1699567455999000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCu2qi0tYIDFQAAAAAdAAAAABAI">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/dm2705/dm2705/assets/125991511/e9a6c3d4-2715-49c8-bd90-7a9b7533073b)
+">
 
 - 🌱 I’m currently learning **Building Chatbots with Python**
 
